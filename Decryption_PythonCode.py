@@ -1,4 +1,3 @@
-```python
 #Cryptography Challenge #1
 import time
 #A basic decryption algorithm...
